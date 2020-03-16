@@ -29,3 +29,4 @@ jobs:
     - run: npm test
       env:
         CI: true
+![Node.js CI](https://github.com/USApp-io/d3/workflows/Node.js%20CI/badge.svg)
